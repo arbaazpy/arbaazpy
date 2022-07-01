@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Django
 - 🌱 I’m currently learning FastAPI
 - 💞️ I’m looking to collaborate on Django based projects.
-- 📫 How to reach me arbaazali.dev@gmail.com
+- 📫 How to reach me arbaazali.pro@gmail.com
 
 <!---
 arbaazpy/arbaazpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
